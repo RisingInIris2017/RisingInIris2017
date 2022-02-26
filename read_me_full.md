@@ -11,6 +11,16 @@ My ID RisingInIris2017 means "Be rising in rainbow after storm in the year 2017"
 
 Iris is The Goddess of Rainbow's name, not something in your eye.
 ### My Interests
+#### Minecraft Modpack Making
+I am fond of making Minecraft Modpack.
+
+[RisingInIris2017/Blessed-Or-Cursed-Minecraft-Modpack](https://github.com/RisingInIris2017/Blessed-Or-Cursed-Minecraft-Modpack) is my first public Minecraft modpack project.
+
+It has gained 21k downloads, which is a good start.
+
+I am now contributing to [ProjectHDS/Herodotus](https://github.com/ProjectHDS/Herodotus), a brand new deep-tweaked Minecraft modpack.
+
+You will see more and more modpack projects I author or contribute to!
 #### Minecraft Mod Translating
 I am a amatuer translator, keeping making translations for the sandbox video game Minecraft and its Mods and Plugins.
 
@@ -29,12 +39,6 @@ This project is a team-work. I cooperate with others well, too!
 I also joined the [CurseForge Promotion Association(CFPA)](https://cfpa.team/) Team, working as a Minecraft Mod translator.
 
 You can find my avatar in the Contributors List.
-#### Minecraft Mod-pack Making
-I am fond of making Minecraft Mod pack.
-
-I have not published my modpacks, most of my packs are used on my Minecraft server as I mention below.
-
-Maybe there will be my modpack on CurseForge one day.
 #### Minecraft Server Hosting
 [@kurisu93](https://github.com/kurisu93), Yuuki1(Currently not signed GitHub up yet) and I, own a Minecraft server project called MARYT.
 
