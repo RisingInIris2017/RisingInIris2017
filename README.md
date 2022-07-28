@@ -1,6 +1,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RisingInIris2017&show_icons=true&hide_border=true&include_all_commits=true&&theme=merko) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RisingInIris2017&layout=compact&hide_border=true&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RisingInIris2017&layout=compact&hide_border=true&hide=html,css&theme=merko)
 ### Brief Profile
 RisingInIris2017, me, is a 24-year-old postgraduate in China.
 
